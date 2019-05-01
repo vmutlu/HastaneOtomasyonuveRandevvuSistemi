@@ -1,0 +1,168 @@
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csprojAssemblyReference.cache
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Bilgiduzenle.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.brans.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.doktorbilgiduzenle.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktordetay.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorgiris.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.doktorpaneli.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.duyurular.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.hastadetay.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastagırısformu.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.hastakayıt.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.randevulistesi.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.sekreterdetay.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.sekretergiris.resources
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+D:\CodeBlocks\MinGW\libe\video kayıt\2.Sınıf\HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csprojAssemblyReference.cache
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Bilgiduzenle.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.brans.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.doktorbilgiduzenle.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktordetay.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorgiris.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.doktorpaneli.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.duyurular.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.hastadetay.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastagırısformu.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.hastakayıt.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.randevulistesi.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.sekreterdetay.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.sekretergiris.resources
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\veysel\Desktop\HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Data.v17.1.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Utils.v17.1.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraBars.v17.1.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Data.v17.1.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Utils.v17.1.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraBars.v17.1.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csprojAssemblyReference.cache
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Bilgiduzenle.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.brans.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.doktorbilgiduzenle.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktordetay.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Doktorgiris.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.doktorpaneli.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Giriş.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.hastadetay.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Hastagırısformu.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.hastakayıt.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.randevulistesi.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.sekreterdetay.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.sekretergiris.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe.licenses
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CopyComplete
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form3.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form4.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraScheduler.v17.1.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Office.v17.1.Core.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraScheduler.v17.1.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\DevExpress.Office.v17.1.Core.xml
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Recete.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.dene.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Mesaj.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.ulasım.resources
+C:\Users\veysel\Desktop\Microsoft SQL\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Ulasımweb.resources
